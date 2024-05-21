@@ -28,6 +28,11 @@ public:
 
 };
 
+//pembuatan class dokter
+class dokter {
+
+};
+
 int main()
 {
     
