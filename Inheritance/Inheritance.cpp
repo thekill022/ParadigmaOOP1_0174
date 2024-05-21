@@ -55,5 +55,9 @@ int main()
 	pelajar siswa1("andi laksono", "SMAN 1 Bantul");
 	//pemanggilan function perkenalan dari class pelajar
 	cout << siswa1.perkenalan();
+	//pemanggilan function warisan dari class orang kepada class object
+	cout << "Hasil = " << siswa1.jumlah(10, 90) << endl;
+
+	return 0;
 
 }
