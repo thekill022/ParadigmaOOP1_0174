@@ -15,6 +15,12 @@ class Mahasiswa {
         Mahasiswa(int pId, string pNama, float pNilai) : nama(pNama), nilai(pNilai), id(pId) {
 
         };
+        //membuat destructor dari class mahasiswa
+        ~Mahasiswa() {
+            cout << "ID : " << id << endl;
+            cout << "Nama : " << nama << endl;
+            cout << "Nilai : " << nilai << endl;
+        }
 };
 
 int main()
