@@ -8,6 +8,9 @@ class Mahasiswa {
         const int id;
         string nama;
         float nilai;
+
+    //membuat member class public
+    public:
 };
 
 int main()
