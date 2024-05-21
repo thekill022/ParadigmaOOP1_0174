@@ -8,5 +8,6 @@ using namespace std;
 
 int main()
 {
-
+	//deklarasi dan pemberian nilai object pointer varManusia
+	Manusia* varManusia = new Manusia("jono");
 }
