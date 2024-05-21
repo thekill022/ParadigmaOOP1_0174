@@ -11,6 +11,10 @@ class Mahasiswa {
 
     //membuat member class public
     public:
+        //membuat member initialization list dari class mahasiswa
+        Mahasiswa(int pId, string pNama, float pNilai) : nama(pNama), nilai(pNilai), id(pId) {
+
+        };
 };
 
 int main()
