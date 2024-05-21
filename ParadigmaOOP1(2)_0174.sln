@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP1(2)_0174", "ParadigmaOOP1(2)_0174\ParadigmaOOP1(2)_0174.vcxproj", "{15CDAE77-ED58-4C68-917C-D14BDD5CEBC1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "komposisi", "komposisi\komposisi.vcxproj", "{607A973F-2F1D-4A21-9FC5-063D17F87F8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{15CDAE77-ED58-4C68-917C-D14BDD5CEBC1}.Release|x64.Build.0 = Release|x64
 		{15CDAE77-ED58-4C68-917C-D14BDD5CEBC1}.Release|x86.ActiveCfg = Release|Win32
 		{15CDAE77-ED58-4C68-917C-D14BDD5CEBC1}.Release|x86.Build.0 = Release|Win32
+		{607A973F-2F1D-4A21-9FC5-063D17F87F8F}.Debug|x64.ActiveCfg = Debug|x64
+		{607A973F-2F1D-4A21-9FC5-063D17F87F8F}.Debug|x64.Build.0 = Debug|x64
+		{607A973F-2F1D-4A21-9FC5-063D17F87F8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{607A973F-2F1D-4A21-9FC5-063D17F87F8F}.Debug|x86.Build.0 = Debug|Win32
+		{607A973F-2F1D-4A21-9FC5-063D17F87F8F}.Release|x64.ActiveCfg = Release|x64
+		{607A973F-2F1D-4A21-9FC5-063D17F87F8F}.Release|x64.Build.0 = Release|x64
+		{607A973F-2F1D-4A21-9FC5-063D17F87F8F}.Release|x86.ActiveCfg = Release|Win32
+		{607A973F-2F1D-4A21-9FC5-063D17F87F8F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
