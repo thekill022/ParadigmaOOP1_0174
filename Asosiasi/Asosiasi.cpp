@@ -88,4 +88,9 @@ int main()
 	pasien* varPasien1 = new pasien("Andi");
 	pasien* varPasien2 = new pasien("Lia");
 
+	//pemanggilan dan pemberian argument prosedur tambahPasien() dari class dokter
+	varDokter1->tambahPasien(varPasien1);
+	varDokter1->tambahPasien(varPasien2);
+	varDokter2->tambahPasien(varPasien1);
+
 }
